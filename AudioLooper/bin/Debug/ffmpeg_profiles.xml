@@ -1,0 +1,117 @@
+<Profiles>
+
+	<Profile name="mp3">
+    <label>MP3</label>
+    <cat>MP3</cat>
+    <ext>mp3</ext>
+	<format></format>
+    <ffmpeg_parameters>-acodec libmp3lame -b:a 160k -ac 2 -ar 44100</ffmpeg_parameters>
+  </Profile> 
+  
+  <Profile name="flac">
+    <label>FLAC</label>
+    <cat>FLAC</cat>
+    <ext>flac</ext>
+	<format></format>
+    <ffmpeg_parameters>-acodec flac -b:a 160k -ac 2 -ar 44100</ffmpeg_parameters>
+  </Profile> 
+  
+  <Profile name="wma">
+    <label>WMA</label>
+    <cat>WMA</cat>
+    <ext>wma</ext>
+	<format></format>
+    <ffmpeg_parameters>-acodec wmav2 -b:a 160k -ac 2</ffmpeg_parameters>
+  </Profile>        	    
+  
+  <Profile name="aac">
+    <label>AAC</label>
+    <cat>AAC</cat>
+    <ext>aac</ext>
+	<format></format>
+    <ffmpeg_parameters>-strict experimental -c:a aac -cutoff 15000</ffmpeg_parameters>
+  </Profile>        	    
+
+  <Profile name="m4a">
+    <label>MPEG4 Audio</label>
+    <cat>M4A</cat>
+    <ext>m4a</ext>
+	<format></format>
+    <ffmpeg_parameters>-acodec aac -b:a 112k -ac 2 -ar 48000</ffmpeg_parameters>
+  </Profile>  
+  
+  <Profile name="ogg">
+    <label>OGG</label>
+    <cat>OGG</cat>
+    <ext>ogg</ext>
+	<format></format>
+    <ffmpeg_parameters>-acodec libvorbis -aq 3 -ac 2</ffmpeg_parameters>
+  </Profile>     
+  
+  <Profile name="aiff">
+    <label>AIFF</label>
+    <cat>AIFF</cat>
+    <ext>aiff</ext>
+	<format></format>
+    <ffmpeg_parameters>-f aiff</ffmpeg_parameters>
+  </Profile>       
+  
+  <Profile name="CDWavStereo">
+    <label>WAV</label>
+    <cat>WAV</cat>
+    <ext>wav</ext>
+	<format>wav</format>
+    <ffmpeg_parameters>-ar 44100</ffmpeg_parameters>
+  </Profile>  
+  
+  <Profile name="ac3dvd192">
+    <label>Ac3 DVD - 192kbps Stereo</label>
+    <cat>AC3</cat>
+    <ext>ac3</ext>
+	<format>ac3</format>
+    <ffmpeg_parameters>-f ac3 -acodec ac3 -b:a 192k -ar 48000 -ac 2</ffmpeg_parameters>
+  </Profile>
+  <Profile name="ac3dvd384">
+    <label>Ac3 DVD - 384kbps Stereo</label>
+    <cat>AC3</cat>
+    <ext>ac3</ext>
+	<format>ac3</format>
+    <ffmpeg_parameters>-f ac3 -acodec ac3 -b:a 384k -ar 48000 -ac 2</ffmpeg_parameters>
+  </Profile>   
+  
+  <Profile name="Wavpack">
+    <label>Wavpack</label>
+    <cat>Wavpack</cat>
+    <ext>wv</ext>
+	<format></format>
+    <ffmpeg_parameters></ffmpeg_parameters>
+  </Profile>       
+  
+  <Profile name="MP2">
+    <label>MP2</label>
+    <cat>MP2</cat>
+    <ext>mp2</ext>
+	<format></format>
+    <ffmpeg_parameters></ffmpeg_parameters>
+  </Profile>       
+  
+  <Profile name="SunAU">
+    <label>Sun AU</label>
+    <cat>Sun AU</cat>
+    <ext>au</ext>
+	<format></format>
+    <ffmpeg_parameters></ffmpeg_parameters>
+  </Profile>       
+  
+  <Profile name="AMR">
+    <label>AMR</label>
+    <cat>AMR</cat>
+    <ext>amr</ext>
+	<format></format>
+    <ffmpeg_parameters>-ar 8000 -ac 1 -ab 12.2k</ffmpeg_parameters>
+  </Profile>       
+  
+  
+  <RecentProfiles>    
+  </RecentProfiles>
+</Profiles>

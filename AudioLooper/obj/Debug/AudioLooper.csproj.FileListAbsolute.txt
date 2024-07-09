@@ -1,0 +1,57 @@
+c:\code\Video Audio Tools\AudioLooper\AudioLooper\bin\Debug\AudioLooper.exe.config
+c:\code\Video Audio Tools\AudioLooper\AudioLooper\bin\Debug\AudioLooper.exe
+c:\code\Video Audio Tools\AudioLooper\AudioLooper\bin\Debug\AudioLooper.pdb
+c:\code\Video Audio Tools\AudioLooper\AudioLooper\obj\Debug\AudioLooper.CustomForm.resources
+c:\code\Video Audio Tools\AudioLooper\AudioLooper\obj\Debug\AudioLooper.frmAbout.resources
+c:\code\Video Audio Tools\AudioLooper\AudioLooper\obj\Debug\AudioLooper.frmAdeia.resources
+c:\code\Video Audio Tools\AudioLooper\AudioLooper\obj\Debug\AudioLooper.frmDownloadUpdate.resources
+c:\code\Video Audio Tools\AudioLooper\AudioLooper\obj\Debug\AudioLooper.frmError.resources
+c:\code\Video Audio Tools\AudioLooper\AudioLooper\obj\Debug\AudioLooper.frmLanguage.resources
+c:\code\Video Audio Tools\AudioLooper\AudioLooper\obj\Debug\AudioLooper.frmMain.resources
+c:\code\Video Audio Tools\AudioLooper\AudioLooper\obj\Debug\AudioLooper.frmMessage.resources
+c:\code\Video Audio Tools\AudioLooper\AudioLooper\obj\Debug\AudioLooper.frmOutputFormat.resources
+c:\code\Video Audio Tools\AudioLooper\AudioLooper\obj\Debug\AudioLooper.frmOutputSubFolder.resources
+c:\code\Video Audio Tools\AudioLooper\AudioLooper\obj\Debug\AudioLooper.frmPleaseBuy.resources
+c:\code\Video Audio Tools\AudioLooper\AudioLooper\obj\Debug\AudioLooper.frmProfile.resources
+c:\code\Video Audio Tools\AudioLooper\AudioLooper\obj\Debug\AudioLooper.frmProgress.resources
+c:\code\Video Audio Tools\AudioLooper\AudioLooper\obj\Debug\AudioLooper.frmPurchase.resources
+c:\code\Video Audio Tools\AudioLooper\AudioLooper\obj\Debug\AudioLooper.Properties.Resources.resources
+c:\code\Video Audio Tools\AudioLooper\AudioLooper\obj\Debug\AudioLooper.ResFlags.resources
+c:\code\Video Audio Tools\AudioLooper\AudioLooper\obj\Debug\AudioLooper.ResRegister.resources
+c:\code\Video Audio Tools\AudioLooper\AudioLooper\obj\Debug\AudioLooper.ResTranslate.resources
+c:\code\Video Audio Tools\AudioLooper\AudioLooper\obj\Debug\AudioLooper.TimeUpDownControl.resources
+c:\code\Video Audio Tools\AudioLooper\AudioLooper\obj\Debug\AudioLooper.ucTextProgressBar.resources
+c:\code\Video Audio Tools\AudioLooper\AudioLooper\obj\Debug\AudioLooper.csproj.GenerateResource.Cache
+c:\code\Video Audio Tools\AudioLooper\AudioLooper\obj\Debug\AudioLooper.exe
+c:\code\Video Audio Tools\AudioLooper\AudioLooper\obj\Debug\AudioLooper.pdb
+c:\code\Video Audio Tools\AudioLooper\AudioLooper\obj\Debug\AudioLooper.csprojAssemblyReference.cache
+c:\code\Video Audio Tools\AudioLooper\AudioLooper\obj\Debug\AudioLooper.csproj.CoreCompileInputs.cache
+c:\code\Video Audio Tools\AudioLooper\AudioLooper\obj\Debug\AudioLooper.csproj.CopyComplete
+c:\code\Video Audio Tools\AudioLooper\AudioLooper\bin\Debug\com.softpcapps.download-software.dll
+c:\code\Video Audio Tools\AudioLooper\AudioLooper\bin\Debug\com.softpcapps.download-software.pdb
+c:\Users\alex\Documents\GitHub\AudioLooper\AudioLooper\obj\Debug\AudioLooper.csprojAssemblyReference.cache
+c:\Users\alex\Documents\GitHub\AudioLooper\AudioLooper\obj\Debug\AudioLooper.CustomForm.resources
+c:\Users\alex\Documents\GitHub\AudioLooper\AudioLooper\obj\Debug\AudioLooper.frmAbout.resources
+c:\Users\alex\Documents\GitHub\AudioLooper\AudioLooper\obj\Debug\AudioLooper.frmDownloadUpdate.resources
+c:\Users\alex\Documents\GitHub\AudioLooper\AudioLooper\obj\Debug\AudioLooper.frmError.resources
+c:\Users\alex\Documents\GitHub\AudioLooper\AudioLooper\obj\Debug\AudioLooper.frmLanguage.resources
+c:\Users\alex\Documents\GitHub\AudioLooper\AudioLooper\obj\Debug\AudioLooper.frmMain.resources
+c:\Users\alex\Documents\GitHub\AudioLooper\AudioLooper\obj\Debug\AudioLooper.frmMessage.resources
+c:\Users\alex\Documents\GitHub\AudioLooper\AudioLooper\obj\Debug\AudioLooper.frmOutputFormat.resources
+c:\Users\alex\Documents\GitHub\AudioLooper\AudioLooper\obj\Debug\AudioLooper.frmOutputSubFolder.resources
+c:\Users\alex\Documents\GitHub\AudioLooper\AudioLooper\obj\Debug\AudioLooper.frmProfile.resources
+c:\Users\alex\Documents\GitHub\AudioLooper\AudioLooper\obj\Debug\AudioLooper.frmProgress.resources
+c:\Users\alex\Documents\GitHub\AudioLooper\AudioLooper\obj\Debug\AudioLooper.Properties.Resources.resources
+c:\Users\alex\Documents\GitHub\AudioLooper\AudioLooper\obj\Debug\AudioLooper.ResFlags.resources
+c:\Users\alex\Documents\GitHub\AudioLooper\AudioLooper\obj\Debug\AudioLooper.ResTranslate.resources
+c:\Users\alex\Documents\GitHub\AudioLooper\AudioLooper\obj\Debug\AudioLooper.TimeUpDownControl.resources
+c:\Users\alex\Documents\GitHub\AudioLooper\AudioLooper\obj\Debug\AudioLooper.ucTextProgressBar.resources
+c:\Users\alex\Documents\GitHub\AudioLooper\AudioLooper\obj\Debug\AudioLooper.csproj.GenerateResource.cache
+c:\Users\alex\Documents\GitHub\AudioLooper\AudioLooper\obj\Debug\AudioLooper.csproj.CoreCompileInputs.cache
+c:\Users\alex\Documents\GitHub\AudioLooper\AudioLooper\obj\Debug\AudioLooper.exe
+c:\Users\alex\Documents\GitHub\AudioLooper\AudioLooper\obj\Debug\AudioLooper.pdb
+c:\Users\alex\Documents\GitHub\AudioLooper\AudioLooper\bin\Debug\AudioLooper.exe.config
+c:\Users\alex\Documents\GitHub\AudioLooper\AudioLooper\bin\Debug\AudioLooper.exe
+c:\Users\alex\Documents\GitHub\AudioLooper\AudioLooper\bin\Debug\AudioLooper.pdb
+c:\Users\alex\Documents\GitHub\AudioLooper\AudioLooper\bin\Debug\com.softpcapps.download-software.pdb
+c:\Users\alex\Documents\GitHub\AudioLooper\AudioLooper\obj\Debug\AudioLooper.csproj.CopyComplete
